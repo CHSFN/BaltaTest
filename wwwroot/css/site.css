@@ -20,3 +20,12 @@ html {
 body {
   margin-bottom: 60px;
 }
+
+.imgCard {
+  -webkit-transition:  all .01s cubic-bezier(.190, 1.000, .220, 1.000);
+  -moz-transition: all .01s cubic-bezier(.190, 1.000, .220, 1.000);
+  -ms-transition: all .01s cubic-bezier(.190, 1.000, .220, 1.000);
+  -o-transition: all .01s cubic-bezier(.190, 1.000, .220, 1.000);
+  transition: all .01s cubic-bezier(.190, 1.000, .220, 1.000);
+  
+}
